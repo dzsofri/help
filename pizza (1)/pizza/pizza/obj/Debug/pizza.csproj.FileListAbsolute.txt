@@ -1,0 +1,21 @@
+C:\Users\beretizsofia\Desktop\pizza\pizza\bin\Debug\pizza.exe.config
+C:\Users\beretizsofia\Desktop\pizza\pizza\bin\Debug\pizza.exe
+C:\Users\beretizsofia\Desktop\pizza\pizza\bin\Debug\pizza.pdb
+C:\Users\beretizsofia\Desktop\pizza\pizza\obj\Debug\pizza.csproj.AssemblyReference.cache
+C:\Users\beretizsofia\Desktop\pizza\pizza\obj\Debug\pizza.Form1.resources
+C:\Users\beretizsofia\Desktop\pizza\pizza\obj\Debug\pizza.Properties.Resources.resources
+C:\Users\beretizsofia\Desktop\pizza\pizza\obj\Debug\pizza.csproj.GenerateResource.cache
+C:\Users\beretizsofia\Desktop\pizza\pizza\obj\Debug\pizza.csproj.CoreCompileInputs.cache
+C:\Users\beretizsofia\Desktop\pizza\pizza\obj\Debug\pizza.exe
+C:\Users\beretizsofia\Desktop\pizza\pizza\obj\Debug\pizza.pdb
+C:\Users\Zsófi\Downloads\pizza (1)\pizza\pizza\bin\Debug\pizza.exe.config
+C:\Users\Zsófi\Downloads\pizza (1)\pizza\pizza\bin\Debug\pizza.exe
+C:\Users\Zsófi\Downloads\pizza (1)\pizza\pizza\bin\Debug\pizza.pdb
+C:\Users\Zsófi\Downloads\pizza (1)\pizza\pizza\obj\Debug\pizza.csproj.AssemblyReference.cache
+C:\Users\Zsófi\Downloads\pizza (1)\pizza\pizza\obj\Debug\pizza.exe.config
+C:\Users\Zsófi\Downloads\pizza (1)\pizza\pizza\obj\Debug\pizza.Form1.resources
+C:\Users\Zsófi\Downloads\pizza (1)\pizza\pizza\obj\Debug\pizza.Properties.Resources.resources
+C:\Users\Zsófi\Downloads\pizza (1)\pizza\pizza\obj\Debug\pizza.csproj.GenerateResource.cache
+C:\Users\Zsófi\Downloads\pizza (1)\pizza\pizza\obj\Debug\pizza.csproj.CoreCompileInputs.cache
+C:\Users\Zsófi\Downloads\pizza (1)\pizza\pizza\obj\Debug\pizza.exe
+C:\Users\Zsófi\Downloads\pizza (1)\pizza\pizza\obj\Debug\pizza.pdb
