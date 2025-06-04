@@ -1,3 +1,0 @@
-@PORT = 3000
-### Felhasználók listázása
-GET http://localhost:{{PORT}}/tasks
