@@ -1,0 +1,2 @@
+Janos;32;Budapest
+Anna;28;Debrecen

@@ -1,0 +1,8 @@
+C:\Users\Zsófi\Desktop\gyakorlotxt\gyakorlotxt\bin\Debug\gyakorlotxt.exe.config
+C:\Users\Zsófi\Desktop\gyakorlotxt\gyakorlotxt\bin\Debug\gyakorlotxt.exe
+C:\Users\Zsófi\Desktop\gyakorlotxt\gyakorlotxt\bin\Debug\gyakorlotxt.pdb
+C:\Users\Zsófi\Desktop\gyakorlotxt\gyakorlotxt\obj\Debug\gyakorlotxt.csproj.AssemblyReference.cache
+C:\Users\Zsófi\Desktop\gyakorlotxt\gyakorlotxt\obj\Debug\gyakorlotxt.csproj.CoreCompileInputs.cache
+C:\Users\Zsófi\Desktop\gyakorlotxt\gyakorlotxt\obj\Debug\gyakorlotxt.exe
+C:\Users\Zsófi\Desktop\gyakorlotxt\gyakorlotxt\obj\Debug\gyakorlotxt.pdb
+C:\Users\Zsófi\Desktop\gyakorlotxt\gyakorlotxt\obj\Debug\gyakorlotxt.exe.config
